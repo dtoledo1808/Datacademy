@@ -120,8 +120,8 @@ def reto4():
             altura = float(input('////ingresa el alto en cm: '))
             volumen = (longitud * ancho) / 2 * altura
             print(f'////el volumen de el prisma es {volumen}cm3')
-    menu_reto4 = int(input('''        ////quieres volver a usar este reto////
-    ////1: yes   2: not = '''))    
+        menu_reto4 = int(input('''        ////quieres volver a usar este reto////
+        ////1: yes   2: not = '''))    
 
 
 def reto5():
